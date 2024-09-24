@@ -1,0 +1,47 @@
+﻿@model IEnumerable<app_grupo01.Models.Marca>
+
+@{
+    ViewData["Title"] = "Marca";
+}
+
+<h1>Marcas</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.id_marca)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.nombre_marca)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.estatus)
+            </th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.id_marca)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.nombre_marca)
+            </td>
+            <td>
+                    @Html.DisplayFor(modelItem => item.estatus)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

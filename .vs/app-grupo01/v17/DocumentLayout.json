@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FERNANDO\\OneDrive - SENATI\\Documents\\IV SEMESTRE\\LENGUAJE DE PROGRAMACION\\app-grupo01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7CFC89-ACA1-4C0D-8C8F-3645FD3F8B50}|app-grupo01\\app-grupo01.csproj|c:\\users\\fernando\\onedrive - senati\\documents\\iv semestre\\lenguaje de programacion\\app-grupo01\\app-grupo01\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB7CFC89-ACA1-4C0D-8C8F-3645FD3F8B50}|app-grupo01\\app-grupo01.csproj|solutionrelative:app-grupo01\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7CFC89-ACA1-4C0D-8C8F-3645FD3F8B50}|app-grupo01\\app-grupo01.csproj|C:\\Users\\FERNANDO\\OneDrive - SENATI\\Documents\\IV SEMESTRE\\LENGUAJE DE PROGRAMACION\\app-grupo01\\app-grupo01\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB7CFC89-ACA1-4C0D-8C8F-3645FD3F8B50}|app-grupo01\\app-grupo01.csproj|solutionrelative:app-grupo01\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7CFC89-ACA1-4C0D-8C8F-3645FD3F8B50}|app-grupo01\\app-grupo01.csproj|C:\\Users\\FERNANDO\\OneDrive - SENATI\\Documents\\IV SEMESTRE\\LENGUAJE DE PROGRAMACION\\app-grupo01\\app-grupo01\\data\\crud_producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB7CFC89-ACA1-4C0D-8C8F-3645FD3F8B50}|app-grupo01\\app-grupo01.csproj|solutionrelative:app-grupo01\\data\\crud_producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7CFC89-ACA1-4C0D-8C8F-3645FD3F8B50}|app-grupo01\\app-grupo01.csproj|C:\\Users\\FERNANDO\\OneDrive - SENATI\\Documents\\IV SEMESTRE\\LENGUAJE DE PROGRAMACION\\app-grupo01\\app-grupo01\\data\\crud_categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB7CFC89-ACA1-4C0D-8C8F-3645FD3F8B50}|app-grupo01\\app-grupo01.csproj|solutionrelative:app-grupo01\\data\\crud_categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7CFC89-ACA1-4C0D-8C8F-3645FD3F8B50}|app-grupo01\\app-grupo01.csproj|C:\\Users\\FERNANDO\\OneDrive - SENATI\\Documents\\IV SEMESTRE\\LENGUAJE DE PROGRAMACION\\app-grupo01\\app-grupo01\\data\\crud_marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB7CFC89-ACA1-4C0D-8C8F-3645FD3F8B50}|app-grupo01\\app-grupo01.csproj|solutionrelative:app-grupo01\\data\\crud_marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7CFC89-ACA1-4C0D-8C8F-3645FD3F8B50}|app-grupo01\\app-grupo01.csproj|C:\\Users\\FERNANDO\\OneDrive - SENATI\\Documents\\IV SEMESTRE\\LENGUAJE DE PROGRAMACION\\app-grupo01\\app-grupo01\\models\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB7CFC89-ACA1-4C0D-8C8F-3645FD3F8B50}|app-grupo01\\app-grupo01.csproj|solutionrelative:app-grupo01\\models\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7CFC89-ACA1-4C0D-8C8F-3645FD3F8B50}|app-grupo01\\app-grupo01.csproj|C:\\Users\\FERNANDO\\OneDrive - SENATI\\Documents\\IV SEMESTRE\\LENGUAJE DE PROGRAMACION\\app-grupo01\\app-grupo01\\views\\marca\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB7CFC89-ACA1-4C0D-8C8F-3645FD3F8B50}|app-grupo01\\app-grupo01.csproj|solutionrelative:app-grupo01\\views\\marca\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7CFC89-ACA1-4C0D-8C8F-3645FD3F8B50}|app-grupo01\\app-grupo01.csproj|C:\\Users\\FERNANDO\\OneDrive - SENATI\\Documents\\IV SEMESTRE\\LENGUAJE DE PROGRAMACION\\app-grupo01\\app-grupo01\\views\\categoria\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB7CFC89-ACA1-4C0D-8C8F-3645FD3F8B50}|app-grupo01\\app-grupo01.csproj|solutionrelative:app-grupo01\\views\\categoria\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7CFC89-ACA1-4C0D-8C8F-3645FD3F8B50}|app-grupo01\\app-grupo01.csproj|C:\\Users\\FERNANDO\\OneDrive - SENATI\\Documents\\IV SEMESTRE\\LENGUAJE DE PROGRAMACION\\app-grupo01\\app-grupo01\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB7CFC89-ACA1-4C0D-8C8F-3645FD3F8B50}|app-grupo01\\app-grupo01.csproj|solutionrelative:app-grupo01\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7CFC89-ACA1-4C0D-8C8F-3645FD3F8B50}|app-grupo01\\app-grupo01.csproj|C:\\Users\\FERNANDO\\OneDrive - SENATI\\Documents\\IV SEMESTRE\\LENGUAJE DE PROGRAMACION\\app-grupo01\\app-grupo01\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB7CFC89-ACA1-4C0D-8C8F-3645FD3F8B50}|app-grupo01\\app-grupo01.csproj|solutionrelative:app-grupo01\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7CFC89-ACA1-4C0D-8C8F-3645FD3F8B50}|app-grupo01\\app-grupo01.csproj|C:\\Users\\FERNANDO\\OneDrive - SENATI\\Documents\\IV SEMESTRE\\LENGUAJE DE PROGRAMACION\\app-grupo01\\app-grupo01\\controllers\\marcacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB7CFC89-ACA1-4C0D-8C8F-3645FD3F8B50}|app-grupo01\\app-grupo01.csproj|solutionrelative:app-grupo01\\controllers\\marcacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7CFC89-ACA1-4C0D-8C8F-3645FD3F8B50}|app-grupo01\\app-grupo01.csproj|C:\\Users\\FERNANDO\\OneDrive - SENATI\\Documents\\IV SEMESTRE\\LENGUAJE DE PROGRAMACION\\app-grupo01\\app-grupo01\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB7CFC89-ACA1-4C0D-8C8F-3645FD3F8B50}|app-grupo01\\app-grupo01.csproj|solutionrelative:app-grupo01\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7CFC89-ACA1-4C0D-8C8F-3645FD3F8B50}|app-grupo01\\app-grupo01.csproj|C:\\Users\\FERNANDO\\OneDrive - SENATI\\Documents\\IV SEMESTRE\\LENGUAJE DE PROGRAMACION\\app-grupo01\\app-grupo01\\data\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB7CFC89-ACA1-4C0D-8C8F-3645FD3F8B50}|app-grupo01\\app-grupo01.csproj|solutionrelative:app-grupo01\\data\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CRUD_Producto.cs",
+              "DocumentMoniker": "C:\\Users\\FERNANDO\\OneDrive - SENATI\\Documents\\IV SEMESTRE\\LENGUAJE DE PROGRAMACION\\app-grupo01\\app-grupo01\\Data\\CRUD_Producto.cs",
+              "RelativeDocumentMoniker": "app-grupo01\\Data\\CRUD_Producto.cs",
+              "ToolTip": "C:\\Users\\FERNANDO\\OneDrive - SENATI\\Documents\\IV SEMESTRE\\LENGUAJE DE PROGRAMACION\\app-grupo01\\app-grupo01\\Data\\CRUD_Producto.cs",
+              "RelativeToolTip": "app-grupo01\\Data\\CRUD_Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T02:07:39.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\FERNANDO\\OneDrive - SENATI\\Documents\\IV SEMESTRE\\LENGUAJE DE PROGRAMACION\\app-grupo01\\app-grupo01\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "app-grupo01\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\FERNANDO\\OneDrive - SENATI\\Documents\\IV SEMESTRE\\LENGUAJE DE PROGRAMACION\\app-grupo01\\app-grupo01\\Models\\Producto.cs",
+              "RelativeToolTip": "app-grupo01\\Models\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T01:59:49.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\FERNANDO\\OneDrive - SENATI\\Documents\\IV SEMESTRE\\LENGUAJE DE PROGRAMACION\\app-grupo01\\app-grupo01\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "app-grupo01\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\FERNANDO\\OneDrive - SENATI\\Documents\\IV SEMESTRE\\LENGUAJE DE PROGRAMACION\\app-grupo01\\app-grupo01\\Models\\Categoria.cs",
+              "RelativeToolTip": "app-grupo01\\Models\\Categoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T22:08:14.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CRUD_Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\FERNANDO\\OneDrive - SENATI\\Documents\\IV SEMESTRE\\LENGUAJE DE PROGRAMACION\\app-grupo01\\app-grupo01\\Data\\CRUD_Categoria.cs",
+              "RelativeDocumentMoniker": "app-grupo01\\Data\\CRUD_Categoria.cs",
+              "ToolTip": "C:\\Users\\FERNANDO\\OneDrive - SENATI\\Documents\\IV SEMESTRE\\LENGUAJE DE PROGRAMACION\\app-grupo01\\app-grupo01\\Data\\CRUD_Categoria.cs",
+              "RelativeToolTip": "app-grupo01\\Data\\CRUD_Categoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T22:06:21.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\FERNANDO\\OneDrive - SENATI\\Documents\\IV SEMESTRE\\LENGUAJE DE PROGRAMACION\\app-grupo01\\app-grupo01\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "app-grupo01\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\FERNANDO\\OneDrive - SENATI\\Documents\\IV SEMESTRE\\LENGUAJE DE PROGRAMACION\\app-grupo01\\app-grupo01\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "app-grupo01\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB8AAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T03:29:58.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\FERNANDO\\OneDrive - SENATI\\Documents\\IV SEMESTRE\\LENGUAJE DE PROGRAMACION\\app-grupo01\\app-grupo01\\Views\\Marca\\Index.cshtml",
+              "RelativeDocumentMoniker": "app-grupo01\\Views\\Marca\\Index.cshtml",
+              "ToolTip": "C:\\Users\\FERNANDO\\OneDrive - SENATI\\Documents\\IV SEMESTRE\\LENGUAJE DE PROGRAMACION\\app-grupo01\\app-grupo01\\Views\\Marca\\Index.cshtml",
+              "RelativeToolTip": "app-grupo01\\Views\\Marca\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T02:25:46.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MarcaController.cs",
+              "DocumentMoniker": "C:\\Users\\FERNANDO\\OneDrive - SENATI\\Documents\\IV SEMESTRE\\LENGUAJE DE PROGRAMACION\\app-grupo01\\app-grupo01\\Controllers\\MarcaController.cs",
+              "RelativeDocumentMoniker": "app-grupo01\\Controllers\\MarcaController.cs",
+              "ToolTip": "C:\\Users\\FERNANDO\\OneDrive - SENATI\\Documents\\IV SEMESTRE\\LENGUAJE DE PROGRAMACION\\app-grupo01\\app-grupo01\\Controllers\\MarcaController.cs",
+              "RelativeToolTip": "app-grupo01\\Controllers\\MarcaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T02:23:38.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CRUD_Marca.cs",
+              "DocumentMoniker": "C:\\Users\\FERNANDO\\OneDrive - SENATI\\Documents\\IV SEMESTRE\\LENGUAJE DE PROGRAMACION\\app-grupo01\\app-grupo01\\Data\\CRUD_Marca.cs",
+              "RelativeDocumentMoniker": "app-grupo01\\Data\\CRUD_Marca.cs",
+              "ToolTip": "C:\\Users\\FERNANDO\\OneDrive - SENATI\\Documents\\IV SEMESTRE\\LENGUAJE DE PROGRAMACION\\app-grupo01\\app-grupo01\\Data\\CRUD_Marca.cs",
+              "RelativeToolTip": "app-grupo01\\Data\\CRUD_Marca.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T01:52:26.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\FERNANDO\\OneDrive - SENATI\\Documents\\IV SEMESTRE\\LENGUAJE DE PROGRAMACION\\app-grupo01\\app-grupo01\\Views\\Categoria\\Index.cshtml",
+              "RelativeDocumentMoniker": "app-grupo01\\Views\\Categoria\\Index.cshtml",
+              "ToolTip": "C:\\Users\\FERNANDO\\OneDrive - SENATI\\Documents\\IV SEMESTRE\\LENGUAJE DE PROGRAMACION\\app-grupo01\\app-grupo01\\Views\\Categoria\\Index.cshtml",
+              "RelativeToolTip": "app-grupo01\\Views\\Categoria\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T23:57:39.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Marca.cs",
+              "DocumentMoniker": "C:\\Users\\FERNANDO\\OneDrive - SENATI\\Documents\\IV SEMESTRE\\LENGUAJE DE PROGRAMACION\\app-grupo01\\app-grupo01\\Models\\Marca.cs",
+              "RelativeDocumentMoniker": "app-grupo01\\Models\\Marca.cs",
+              "ToolTip": "C:\\Users\\FERNANDO\\OneDrive - SENATI\\Documents\\IV SEMESTRE\\LENGUAJE DE PROGRAMACION\\app-grupo01\\app-grupo01\\Models\\Marca.cs",
+              "RelativeToolTip": "app-grupo01\\Models\\Marca.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T01:49:43.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoriaController.cs",
+              "DocumentMoniker": "C:\\Users\\FERNANDO\\OneDrive - SENATI\\Documents\\IV SEMESTRE\\LENGUAJE DE PROGRAMACION\\app-grupo01\\app-grupo01\\Controllers\\CategoriaController.cs",
+              "RelativeDocumentMoniker": "app-grupo01\\Controllers\\CategoriaController.cs",
+              "ToolTip": "C:\\Users\\FERNANDO\\OneDrive - SENATI\\Documents\\IV SEMESTRE\\LENGUAJE DE PROGRAMACION\\app-grupo01\\app-grupo01\\Controllers\\CategoriaController.cs",
+              "RelativeToolTip": "app-grupo01\\Controllers\\CategoriaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T23:36:51.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\FERNANDO\\OneDrive - SENATI\\Documents\\IV SEMESTRE\\LENGUAJE DE PROGRAMACION\\app-grupo01\\app-grupo01\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "app-grupo01\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\FERNANDO\\OneDrive - SENATI\\Documents\\IV SEMESTRE\\LENGUAJE DE PROGRAMACION\\app-grupo01\\app-grupo01\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "app-grupo01\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T02:59:29.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\FERNANDO\\OneDrive - SENATI\\Documents\\IV SEMESTRE\\LENGUAJE DE PROGRAMACION\\app-grupo01\\app-grupo01\\Data\\Conexion.cs",
+              "RelativeDocumentMoniker": "app-grupo01\\Data\\Conexion.cs",
+              "ToolTip": "C:\\Users\\FERNANDO\\OneDrive - SENATI\\Documents\\IV SEMESTRE\\LENGUAJE DE PROGRAMACION\\app-grupo01\\app-grupo01\\Data\\Conexion.cs",
+              "RelativeToolTip": "app-grupo01\\Data\\Conexion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAACJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T01:39:35.528Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
